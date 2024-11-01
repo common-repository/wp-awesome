@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Awesome by WPmotor.no\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-22 12:06+0000\n"
+"PO-Revision-Date: 2016-09-22 12:09+0000\n"
+"Last-Translator: frode <frode@ennerd.com>\n"
+"Language-Team: Norwegian (Bokmål)\n"
+"Language: nb-NO\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: modules/ContextMenus/ContextMenus.php:117
+msgid "Edit Site Info"
+msgstr "Rediger nettstedsinformasjon"
+
+#: modules/ContextMenus/ContextMenus.php:252
+msgid "Post"
+msgstr "Post"
+
+#: modules/ContextMenus/ContextMenus.php:304
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: modules/ContextMenus/ContextMenus.php:327
+msgid "Customize Theme"
+msgstr "Tilpass tema"
+
+#: modules/ContextMenus/ContextMenus.php:336
+msgid "Edit Widgets"
+msgstr "Rediger widgets"
+
+#. Name of the plugin
+msgid "WP Awesome by WPmotor.no"
+msgstr "WP Awesome fra WPmotor.no"
+
+#. Description of the plugin
+msgid ""
+"WP Awesome makes WordPress easier to use by adding a context menu to your "
+"page previews and allows you to login by clicking ESC three times."
+msgstr ""
+"WP Awesome gjør WordPress enklere å bruke ved å lage en høyreklikkmeny på "
+"sideforhåndsvisningen, og lar deg logge inn ved å trykke på ESC tre ganger."
+
+#. URI of the plugin
+msgid "http://plugins.wpmotor.no/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Frode Børli"
+msgstr ""

@@ -1,0 +1,53 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-22 12:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: modules/ContextMenus/ContextMenus.php:117
+msgid "Edit Site Info"
+msgstr ""
+
+#: modules/ContextMenus/ContextMenus.php:252
+msgid "Post"
+msgstr ""
+
+#: modules/ContextMenus/ContextMenus.php:304
+msgid "Comments"
+msgstr ""
+
+#: modules/ContextMenus/ContextMenus.php:327
+msgid "Customize Theme"
+msgstr ""
+
+#: modules/ContextMenus/ContextMenus.php:336
+msgid "Edit Widgets"
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Awesome by WPmotor.no"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"WP Awesome makes WordPress easier to use by adding a context menu to your "
+"page previews and allows you to login by clicking ESC three times."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://plugins.wpmotor.no/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Frode Børli"
+msgstr ""

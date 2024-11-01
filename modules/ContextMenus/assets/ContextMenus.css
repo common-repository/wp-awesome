@@ -1,0 +1,40 @@
+body > div.wpa-context-menu {
+    width: 200px !important;
+    position: absolute !important;
+    background-color: white !important;
+    border: 1px solid #eee !important;
+    font-family: Arial !important;
+    font-size: 14px !important;
+    color: #444 !important;
+    opacity: 0.01 !important;
+    box-shadow: 4px 4px 5px rgba(0,0,0,0.2) !important;
+    transition: opacity 0.4s !important;
+    z-index: 100000 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    text-align: left !important;
+}
+body > div.wpa-context-menu.wpa-show {
+    opacity: 1 !important;
+}
+body > div.wpa-context-menu a {
+    margin: 0 !important;
+    padding: 0 !important;
+    background-color: #fff !important;
+    display: block !important;
+    padding: 7px 4px 7px 20px !important;
+    color: #777 !important;
+    font-weight: normal !important;
+    text-decoration: none !important;
+    font-size: 12px;
+}
+div.wpa-context-menu a:hover {
+    border-left: 4px solid blue !important;
+    padding: 7px 4px 7px 16px !important;
+    color: #000 !important;
+}
+div.wpa-context-menu div.wpa-context-menu {
+    margin: 0 !important;
+    padding: 0 !important;
+    border-bottom: 1px solid #eee !important;
+}
